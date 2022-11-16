@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pdfMaker", "pdfMaker\pdfMaker.csproj", "{5A6D2C7F-3096-498B-AB1C-219DBC34A47F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A6D2C7F-3096-498B-AB1C-219DBC34A47F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6D2C7F-3096-498B-AB1C-219DBC34A47F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A6D2C7F-3096-498B-AB1C-219DBC34A47F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A6D2C7F-3096-498B-AB1C-219DBC34A47F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {341913E7-F46A-4054-BBBA-B2B355F0D117}
+	EndGlobalSection
+EndGlobal
